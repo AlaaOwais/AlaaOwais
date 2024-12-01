@@ -37,10 +37,10 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaaewais&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaaowais&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=alaaewais&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=alaaewais&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=alaaowais&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=alaaowais&style=for-the-badge">
 </a>
 
 <!--
