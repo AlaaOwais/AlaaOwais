@@ -39,12 +39,10 @@ Tools & Development Practices
 <br>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=alaaowais&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Alaaowais&style=for-the-badge" alt="Profile Views" />
 </p>
-
 <br>
-
 <p align="center">
   <i>Always learning, building, and improving. 🚀</i>
 </p>
-
+<br>
