@@ -1,19 +1,30 @@
 
-<h3 align="center">
-  Welcome to Alaa Ewais's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h3 align="center"> Hi, I'm Alaa Ewais 👋 </h3>
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=.NET%20Backend%20Developer;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
+<h3 align="center"> Frontend Developer | Angular & TypeScript </h3>
 
-- 🏢 I'm a fresh graduate with a bachelor's degree in Business Information Systems from Helwan University.  
-- 👩‍💻 I specialize in backend development using .NET and have hands-on experience building APIs and working on MVC projects.  
-- 🌱 I’m currently learning Angular to enhance my front-end development skills.
-- 💬 Ask me about my experience with C#, ASP.NET, and building scalable backend systems.  
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer+%7C+Angular;Building+Responsive+Web+Applications;Learning+and+Growing+Every+Day&font=Fira+Code&center=true&width=600&height=45&color=A78D78&vCenter=true&size=20" alt="Typing SVG" /> </p>
 
+👩‍💻 About Me
+🎓 A Business Information Systems graduate from Helwan University.
+💻 Focused on frontend development using Angular, TypeScript, and modern web technologies.
+🛠️ Experienced in building responsive web interfaces and integrating RESTful APIs.
+🌱 Continuously improving my Angular skills and exploring modern frontend development practices.
+👩‍🏫 Working as a Coding Instructor, teaching programming and web development to students.
+⚙️ Familiar with C#, ASP.NET Core Web API, SQL Server, and Entity Framework.
+🎯 Interested in building practical applications with clean, reusable, and maintainable code.
+🛠️ Tech Stack
+Frontend Development
+
+<p> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" /> </p>
+
+Backend & Database
+
+<p> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" /> <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /> <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" /> </p>
+
+Tools & Development Practices
+
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /> </p>
 
 ### Connect with Me:
 
@@ -21,19 +32,6 @@
 
 ---
 
-### 🛠 &nbsp;Tech Stack
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=nuget)&nbsp;
-![LINQ](https://img.shields.io/badge/-LINQ-05122A?style=flat&logo=c-sharp)&nbsp;
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=Microsoft%20SQL%20Server)&nbsp;
-![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-05122A?style=flat&logo=Microsoft)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 ---
 
