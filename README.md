@@ -32,27 +32,19 @@ Tools & Development Practices
 <a href="https://linkedin.com/in/alaa-ewais" target="_blank"><img src="https://img.shields.io/badge/-Alaa%20Ewais-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>  
 
 ---
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaaowais&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
 
-
----
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaaowais&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=alaaowais&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=alaaowais&style=for-the-badge">
-</a>
 
-<!--
-**AlaaOwais/AlaaOwais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=alaaowais&style=for-the-badge" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>Always learning, building, and improving. 🚀</i>
+</p>
+
