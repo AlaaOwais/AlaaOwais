@@ -5,15 +5,16 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer+%7C+Angular;Building+Responsive+Web+Applications;Learning+and+Growing+Every+Day&font=Fira+Code&center=true&width=600&height=45&color=A78D78&vCenter=true&size=20" alt="Typing SVG" /> </p>
 
-👩‍💻 About Me
-🎓 A Business Information Systems graduate from Helwan University.
-💻 Focused on frontend development using Angular, TypeScript, and modern web technologies.
-🛠️ Experienced in building responsive web interfaces and integrating RESTful APIs.
-🌱 Continuously improving my Angular skills and exploring modern frontend development practices.
-👩‍🏫 Working as a Coding Instructor, teaching programming and web development to students.
-⚙️ Familiar with C#, ASP.NET Core Web API, SQL Server, and Entity Framework.
-🎯 Interested in building practical applications with clean, reusable, and maintainable code.
-🛠️ Tech Stack
+👩‍💻 About Me <br>
+🎓 A Business Information Systems graduate from Helwan University.<br>
+💻 Focused on frontend development using Angular, TypeScript, and modern web technologies.<br>
+🛠️ Experienced in building responsive web interfaces and integrating RESTful APIs.<br>
+🌱 Continuously improving my Angular skills and exploring modern frontend development practices.<br>
+👩‍🏫 Working as a Coding Instructor, teaching programming and web development to students.<br>
+⚙️ Familiar with C#, ASP.NET Core Web API, SQL Server, and Entity Framework.<br>
+🎯 Interested in building practical applications with clean, reusable, and maintainable code.<br>
+
+🛠️ Tech Stack <br>
 Frontend Development
 
 <p> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" /> </p>
